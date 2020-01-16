@@ -1,8 +1,21 @@
 **Credits :**
-- [MarcoWorms](https://github.com/MarcoWorms) because he's the one who made the basics of PokeIdle. I just asked him to take the game in hands in order to have an updated game.
-- [piiih](https://github.com/piiih) for helping me in the first days of PokeIdle. When the game didn't have any name or any Pokemon inside.
-- [Fastigium](https://github.com/Fastigium) for making the game so awesome. Evolution, Shiny, so much help, so much amazing !
-- [racken / renlok](https://github.com/renlok) for the Pokedex !
+- [MarcoWorms](https://github.com/MarcoWorms) because he's the one who made the basics of PokeIdle.
+- [piiih](https://github.com/piiih) for helping in the first days of PokeIdle, when the game didn't have any name or any Pokemon inside.
+- [Fastigium](https://github.com/Fastigium) for making the game so awesome. Evolution, Shiny, so much help, so amazing!
+- [racken / renlok](https://github.com/renlok) for the Pokedex!
+- [RichardPaulAstley](https://github.com/RichardPaulAstley) for creating the new version of the automatic pokemon game!
+
+--- ? WIP Section ? ---
+
+- Create a 2D sprite version of the entire Galar region
+- Implement two modes: Adventure and Idle
+- Make animated front and back sprites for Pokemon that don't have them
+
+--- # Changelog # ---
+
+- (1/16/2020): Forked repository, edited the Read Me
+
+--- ! Below is everything else from the original repository ! ---
 
 A subreddit for the game is now open ! You can find it [here](https://www.reddit.com/r/Pokeidle/) but like the game, still in progress !
 
